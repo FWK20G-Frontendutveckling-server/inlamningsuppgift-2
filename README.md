@@ -19,4 +19,9 @@ Du ska i denna uppgift bygga en front-end för din e-handelsida och anropa ditt 
 * Varje produkt ska visa namn, pris och en bild.
 * Det ska gå och ta bort produkter från varukorgen.
 
+**Följande ska levereras:**
+* HTML, CSS, JS för din applikation
+* Ditt API (databas etc) från föregående inlämning
+
+
 **Inlämning senast**: 30/4 23:59
